@@ -79,7 +79,7 @@ These values define the learned probability density function for the transformed
 
 Below is the histogram of the transformed variable \( z \) along with the learned probability density function:
 
-<img width="576" height="438" alt="Screenshot 2026-02-16 212711" src="https://github.com/user-attachments/assets/0f6985ea-6917-48a3-a1af-c1a5605ca6d4" />
+<img width="300" height="400" alt="Screenshot 2026-02-16 212711" src="https://github.com/user-attachments/assets/0f6985ea-6917-48a3-a1af-c1a5605ca6d4" />
 
 
 The blue bars represent the histogram of the transformed data, and the red curve represents the learned Gaussian-based probability density function.
